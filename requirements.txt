@@ -1,0 +1,9 @@
+nltk
+pandas
+numpy
+scikit-learn
+matplotlib
+termcolor
+transformers
+uvicorn
+fastapi 
